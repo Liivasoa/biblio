@@ -1,0 +1,38 @@
+.navBar{
+    padding: 0;
+    margin: 0;
+    
+}
+
+
+.navbar-items{
+    float: left;
+    
+}
+
+
+
+.navbar-links{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    letter-spacing: 2px;
+    background-color:rgb(55, 110, 91);
+    overflow: hidden;
+ 
+    
+}
+
+.navbar-lien{
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color:rgb(55, 110, 91);
+    color: azure;
+    letter-spacing: 5px;
+
+}
+.navbar-lien:hover{
+    background-color: rgb(100, 87, 87);
+}
